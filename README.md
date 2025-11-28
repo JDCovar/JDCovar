@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JDCovar
-- 👀 I’m interested in xdxdxd
-- 🌱 I’m currently learning xdxdxd
-- 💞️ I’m looking to collaborate on xdxdxd
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...don't
 
 <!---
